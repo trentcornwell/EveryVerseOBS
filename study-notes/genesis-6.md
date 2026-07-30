@@ -16,4 +16,4 @@ A few things worth noticing as you read:
 
 Judgment and grace sit right next to each other in this chapter. That tension runs through the whole Bible.
 
-*(End-to-end sync test #4 — secret correctly named EVERYVERSE_PUSH_TOKEN this time.)*
+*(End-to-end sync test #5 — token now scoped to the everyverse repo.)*
